@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-        {"src": "/(.*)","dest": "https://nekoz.eu.org/$1"}
+        {"src": "/(.*)","dest": "http://nekoz.eu.org/$1"}
     ]
   }
